@@ -1,0 +1,27 @@
+ /*external*/
+ body {
+    border-top: 5px groove blue;
+    padding-top: 5%;
+    padding-bottom: 7%;
+    padding-right: 5%;
+    padding-left:12% ;
+    margin-top: 15%;
+    margin-bottom: 14%;
+    margin-left:6% ;
+    margin-right: 16%;
+    border-bottom: 5px groove pink;
+    border-left:7px solid yellow;
+    border-right:7px solid teal;
+    cursor: pointer;
+
+      
+} 
+text{
+    cursor:text;
+}
+img{
+    cursor:crosshair;
+}
+h2{
+    cursor:not-allowed;
+}
